@@ -88,10 +88,3 @@ pip install matplotlib numpy
 - **Theming and Customizability:**  
   Three different themes (Dark Scope, Light, Blueprint) are provided. Theme settings include background and foreground colors, grid and spine colors, and even trace colors for various plots.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-## Acknowledgements
-
-This project leverages open source libraries such as Tkinter, Matplotlib, and NumPy to simulate an oscilloscope display. Special thanks to the contributors of these projects.
